@@ -1,0 +1,17 @@
+{
+  "name": "asdetect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AsDetect.js",
+  "scripts": {
+    "serve": "parcel AsDetect.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.5.0"
+  }
+}
